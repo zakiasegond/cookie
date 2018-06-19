@@ -1,4 +1,33 @@
-#display, #boutton{
+#display, #boutton, #jeu
+{
 	text-align: center;
 }
         
+
+#jeu, #display, #boutton
+{
+	font-size: 100px;
+}  
+
+#boutton
+{
+	color: green;
+}  
+
+
+#jeu
+{
+	color: red;
+}
+
+body
+{
+	background-image: url("cookie.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+mark
+{
+	color: blue;
+}
